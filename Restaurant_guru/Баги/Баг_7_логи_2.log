@@ -1,0 +1,22 @@
+stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-92406645-1&cid=1457752664.1699988024&jid=1512192559&gjid=1211594608&_gid=1550970302.1699988024&_u=QACAAEAAAAAAACAAI~&z=1055370329:1 
+        
+        
+       Failed to load resource: net::ERR_CONNECTION_RESET
+scripts.min.js?4.0.8574:1 it_IT /www es_ES
+restaurantguru.it/:1 Access to XMLHttpRequest at 'https://search.restaurantguru.com/ajax/set_locale?hl=es_ES&lang_menu=1' from origin 'https://restaurantguru.it' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+scripts.min.js?4.0.8574:1 
+        
+        
+       GET https://search.restaurantguru.com/ajax/set_locale?hl=es_ES&lang_menu=1 net::ERR_FAILED 200 (OK)
+send @ scripts.min.js?4.0.8574:1
+ajax @ scripts.min.js?4.0.8574:1
+(анонимная) @ scripts.min.js?4.0.8574:1
+setLocale @ scripts.min.js?4.0.8574:1
+(анонимная) @ scripts.min.js?4.0.8574:1
+dispatch @ scripts.min.js?4.0.8574:1
+f.handle @ scripts.min.js?4.0.8574:1
+restaurantguru.it/:1 Uncaught (in promise) {readyState: 0, getResponseHeader: ƒ, getAllResponseHeaders: ƒ, setRequestHeader: ƒ, overrideMimeType: ƒ, …}
+Объект Promise.then (асинхронный)
+(анонимная) @ scripts.min.js?4.0.8574:1
+dispatch @ scripts.min.js?4.0.8574:1
+f.handle @ scripts.min.js?4.0.8574:1

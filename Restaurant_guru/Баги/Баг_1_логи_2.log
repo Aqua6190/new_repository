@@ -1,0 +1,492 @@
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+The FetchEvent for "<URL>" resulted in a network error response: the promise was rejected.
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+js?id=AW-665009610:1 pos: 0
+ 
+        
+        
+       GET https://restaurantguru.com/login_nat?exclude=ru&ret_to=https%3A%2F%2Frestaurantguru.ru%2F&token=562741467276734fc331356bf937a0059f48e8fa&id=kblLpBqa 404 (Not Found)
+(анонимная) @ 10619-1.s.cdn12.com/…gin.js?4.0.8567:295
+a @ js?id=AW-665009610:1
+fireWith @ js?id=AW-665009610:1
+r @ js?id=AW-665009610:1
+(анонимная) @ js?id=AW-665009610:1
+Объект load (асинхронный)
+send @ js?id=AW-665009610:1
+ajax @ js?id=AW-665009610:1
+doLogin @ 10619-1.s.cdn12.com/…gin.js?4.0.8567:274
+a @ js?id=AW-665009610:1
+dispatch @ js?id=AW-665009610:1
+f.handle @ js?id=AW-665009610:1
+Переход к https://restaurantguru.com/login_nat?exclude=ru&ret_to=https%3A%2F%2Frestaurantguru.ru%2F&token=562741467276734fc331356bf937a0059f48e8fa&id=kblLpBqa.
+sw-toolbox.js:13 
+        
+        
+       Uncaught (in promise) TypeError: Failed to fetch
+    at Object.r [as networkOnly] (sw-toolbox.js:13:10246)
+    at c.handler (service-worker.js?8:20:24)
+    at c.<anonymous> (sw-toolbox.js:13:6202)
+    at r (sw-toolbox.js:13:4522)
+r @ sw-toolbox.js:13
+(анонимная) @ service-worker.js?8:20
+(анонимная) @ sw-toolbox.js:13
+r @ sw-toolbox.js:13
+login_nat:1104 
+        
+        
+       GET https://restaurantguru.com/ads/banner.gif net::ERR_FAILED
+VM43:5 crbug/1173575, non-JS module files deprecated.
+(анонимная) @ VM43:5
+scripts.min.js?c7d3:1 document.ready history.state  null
+js?id=AW-665009610:69 
+        
+        
+       GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/665009610/?random=1699986652895&cv=11&fst=1699986652895&bg=ffffff&guid=ON&async=1&gtm=45be3b81&gcd=11l1l1l1l1&dma=0&u_w=1366&u_h=768&url=https%3A%2F%2Frestaurantguru.com%2Flogin_nat%3Fexclude%3Dru%26ret_to%3Dhttps%253A%252F%252Frestaurantguru.ru%252F%26token%3D562741467276734fc331356bf937a0059f48e8fa%26id%3DkblLpBqa&ref=https%3A%2F%2Frestaurantguru.ru%2F&hn=www.googleadservices.com&frm=0&tiba=Page%20not%20found&auid=1465376592.1699814318&fledge=1&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B119.0.6045.124%7CChromium%3B119.0.6045.124%7CNot%253FA_Brand%3B24.0.0.0&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4 net::ERR_CONNECTION_RESET
+Kc @ js?id=AW-665009610:69
+hu @ js?id=AW-665009610:344
+tu @ js?id=AW-665009610:353
+(анонимная) @ js?id=AW-665009610:355
+wu @ js?id=AW-665009610:359
+xu @ js?id=AW-665009610:355
+e @ js?id=AW-665009610:438
+(анонимная) @ js?id=AW-665009610:439
+Qj @ js?id=AW-665009610:187
+dk @ js?id=AW-665009610:190
+HC @ js?id=AW-665009610:439
+nq @ js?id=AW-665009610:288
+mq.flush @ js?id=AW-665009610:291
+mq.push @ js?id=AW-665009610:289
+config @ js?id=AW-665009610:390
+Px @ js?id=AW-665009610:401
+Rx @ js?id=AW-665009610:403
+Объект setTimeout (асинхронный)
+J @ js?id=AW-665009610:71
+Tx @ js?id=AW-665009610:406
+(анонимная) @ js?id=AW-665009610:489
+(анонимная) @ js?id=AW-665009610:486
+(анонимная) @ js?id=AW-665009610:486
+(анонимная) @ js?id=AW-665009610:493
+analytics.js:36 
+        
+        
+       POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-92406645-1&cid=1611390244.1699814319&jid=2050419769&gjid=1896785877&_gid=1658811939.1699814319&_u=QACAAEAAAAAAACAAI~&z=1258238339 net::ERR_TIMED_OUT
+wd @ analytics.js:36
+pe @ analytics.js:35
+oc @ analytics.js:36
+Ea @ analytics.js:36
+g.onreadystatechange @ analytics.js:35
+Объект XMLHttpRequest.send (асинхронный)
+wd @ analytics.js:36
+pe @ analytics.js:35
+Sa @ analytics.js:41
+Ha.D @ analytics.js:38
+pc.send @ analytics.js:77
+X.b.<computed> @ analytics.js:57
+Z.v @ analytics.js:93
+Z.D @ analytics.js:92
+N.N @ analytics.js:96
+rc @ analytics.js:86
+z @ analytics.js:86
+(анонимная) @ analytics.js:96
+(анонимная) @ analytics.js:96
